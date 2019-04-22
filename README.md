@@ -1,2 +1,2 @@
-# My CV
-Link to [Cirriculum Vitae](http://kchaik0.github.io/kchaiko_cv.pdf "kchaiko cv")
+# Github IO
+There are my files docx and pdf CV, updated 21.04.2019
