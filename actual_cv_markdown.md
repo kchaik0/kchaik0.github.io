@@ -1,26 +1,15 @@
 ## Kanstantsin Chaiko
 
 I am result orientated and highly motivated person with 7,5 years' experience in mobile
-development. I have a solid knowledge in Android development and also have a huge experience in Kotlin, Java and Swift. I have a basic knowledge in
-iOS development. Familiar with android
-architecture principles: MVVM, MVP, MVI; with google clean architecture
-components: ViewModel, LiveData, RoomORM. Also have hands on experience with Realm database. Practical experience in Reactive approaches to
-development: RxJava, RxAndroid, RxKotlin, RxSwift. I have a solid
-knowledge in android lifecycle and even have written own architecture for big and complex screens. Also have big practical experience with writing different variety of custom views(view groups and views). I have a strong experience with client-server libraries: Retrofit, Volley and also I've written my own http client. I have a deep diving knowledge about Retrofit e.g. writing custom adapters,
-custom parsers, big variety of different interceptors(e.g. Logic interceptor, network status interceptor and e.t.c.), also work with coroutines adapter and Kotlin coroutines,
-RxAdapters for retrofit. Also have a good experience in writing tests:
-unit tests with Junit framework and ui tests for android with Espresso
-library and Robolectric framework. I have hands on experience with security level of
-the application (signing, obfuscating code, handshake certificates and SSL connection).
+development. I have a solid knowledge in Android development and also have a huge experience in Kotlin, Java and Swift. I have a basic knowledge in iOS development. Familiar with android
+architecture principles: MVVM, MVP, MVI; with google clean architecture components: ViewModel, LiveData, RoomORM. Also have hands on experience with Realm database and huge experience with Firebase solutions(realtime database, firestore, storage). I have written variety of managers for Firebase and as result we had an incapsulated solution, covered with unit tests. I have a practical experience in Reactive approaches to development: RxJava, RxAndroid, RxKotlin, RxSwift. I have a solid knowledge in android lifecycle and even have written own architecture for big and complex screens, this approach can help us to decompose  monster screens with a lot of UI logic to some compact component with incapsulated logic. Also have big practical experience with writing different variety of custom views(view groups and views), and reach huge profit from code re-using. I have a strong experience with client-server libraries: Retrofit, Volley and also I've written my http client, and have experience with network socket technologies. I have a deep diving knowledge about Retrofit e.g. writing custom adapters, custom parsers, big variety of different interceptors(e.g. login interceptor, network status interceptor and e.t.c.), also work with coroutines adapter and Kotlin coroutines, RxAdapters for retrofit. I always use dependency injection framework(Dagger2) or service locator(Koin) in my projects, and initialize objects easily. Also have a good experience in writing tests: unit tests with Junit framework and ui tests for android with Espresso library and Robolectric framework. I have hands on experience with security level of the application (signing, obfuscating code, database enctryption, handshake certificates and SSL connection).
 
 Now I am working as a team lead in mobile team in our group. I control
 working of our team, help my teammates, and deal with the most
 challenges tasks. I have experience in working with big teams and small
 team, and can work even alone for project.
 
-I have a good feedback from customers, team members. I am really excited
-when I learn something new in mobile development. Also ready to
-participate in mentoring programs, and sharing knowledge programs.
+I have a good feedback from customers, team members and always meet the deadlines. Also I can be responsible for product goals and solutions, can make an explanation about any technical decisions. I am really excited when I learn something new in mobile development. Also ready to participate in mentoring programs, and sharing knowledge programs.
 
 ### Contacts:
 
@@ -35,9 +24,9 @@ Phone: +375 29 313 92 20(Belarus phone number)
 *mobile android:* Android SDK, Android support library, Google play
 service libraries (map, billing, drive, gallery, analytics), Android
 clean architecture components(view models, livedata, room orm),
-application architecture(MVVP, MVP, MVC), request frameworks(retrofit,
+application architecture(MVVP, MVP, MVI, MVC), request frameworks(retrofit,
 okhttp, volley, async-http), chat api(e.g. Zopim Chat API), image
-libraries(Glide, Picasso), firebase(authorization, database, storage,
+libraries(Glide, Picasso), firebase(authorization, realtime database, firestore, storage,
 analytics, crashlytic), media player(for audio and video) with media
 controller, app bundling
 
@@ -51,6 +40,8 @@ in gradle files, kotlin coroutines
 *client-server technologies:* REST, SOAP, Oauth
 
 *database:* SQLite and ORMs (Room, GreenDAO, ORMLite), Realm, Object-Box
+
+*dependency injection:* Dagger2, Koin(service locator)
 
 *version control:* GIT, SVN
 
