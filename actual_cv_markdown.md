@@ -1,19 +1,17 @@
 ## Kanstantsin Chaiko
 
-I am highly motivated person with 7,5 years' experience in mobile
-development. I have a solid knowledge in Android development. I have a huge experience in Kotlin, Java and Swift. Familiar with android
-architecture principles: MVVM, MVP; with google clean architecture
-components: ViewModel, LiveData, RoomORM. I have a basic knowledge in
-iOS development. Practical experience in Reactive approaches to
+I am result orientated and highly motivated person with 7,5 years' experience in mobile
+development. I have a solid knowledge in Android development and also have a huge experience in Kotlin, Java and Swift. I have a basic knowledge in
+iOS development. Familiar with android
+architecture principles: MVVM, MVP, MVI; with google clean architecture
+components: ViewModel, LiveData, RoomORM. Also have hands on experience with Realm database. Practical experience in Reactive approaches to
 development: RxJava, RxAndroid, RxKotlin, RxSwift. I have a solid
-knowledge in android lifecycle. I have a strong experience with request
-clients(libraries): Retrofit, Volley and my own http client. For
-retrofit I have a deep diving knowledge e.g. writing custom adapters,
-custom parsers, also work with coroutines adapter and Kotlin coroutines,
+knowledge in android lifecycle and even have written own architecture for big and complex screens. Also have big practical experience with writing different variety of custom views(view groups and views). I have a strong experience with client-server libraries: Retrofit, Volley and also I've written my own http client. I have a deep diving knowledge about Retrofit e.g. writing custom adapters,
+custom parsers, big variety of different interceptors(e.g. Logic interceptor, network status interceptor and e.t.c.), also work with coroutines adapter and Kotlin coroutines,
 RxAdapters for retrofit. Also have a good experience in writing tests:
 unit tests with Junit framework and ui tests for android with Espresso
-library and Robolectric. I have a good experience with security level of
-the application (signing, obfuscate code, SSL connection).
+library and Robolectric framework. I have hands on experience with security level of
+the application (signing, obfuscating code, handshake certificates and SSL connection).
 
 Now I am working as a team lead in mobile team in our group. I control
 working of our team, help my teammates, and deal with the most
@@ -74,7 +72,7 @@ in gradle files, kotlin coroutines
 > ideas. We use Kotlin and Java programming language. I have a hands on
 > experience with firebase. I work with media player (for audio and
 > video) and media controller.
->
+
 > App Link: [Google Play](https://play.google.com/store/apps/details?id=com.tullyapp.tully)
 
 `House and land`
