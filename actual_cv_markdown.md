@@ -49,8 +49,26 @@ in gradle files, kotlin coroutines
 
 ## Experience:
 
+**Mobile Software Developer in 1&1 Mail & Media Applications SE, Munich, Germany** <br />
+*Munich April 2020 - Present (3,5 months)*
+
+**Projects:**
+
+`GMX.de, WEB.de, mail.com, 1&1 mail`
+
+> Mail application for different german and international brands. Has a lot of customers in Germany.
+> People can use a big variety of mail functions.
+
+> App Link: [GMX.de](https://play.google.com/store/apps/details?id=de.gmx.mobile.android.mail)
+> 
+> App Link: [WEB.de](https://play.google.com/store/apps/details?id=de.web.mobile.android.mail)
+> 
+> App Link: [mail.com](https://play.google.com/store/apps/details?id=com.mail.mobile.android.mail)
+> 
+> App Link: [1&1 mail](https://play.google.com/store/apps/details?id=de.eue.mobile.android.mail)
+
 **Senior Mobile Engineer/Team Lead in iTechArt Group, Minsk** <br />
-*Minsk April 2018 - Present (1 years and 6 months)*
+*Minsk April 2018 - March 2020 (1 year and 11 months)*
 
 **Projects:**
 
@@ -93,7 +111,7 @@ in gradle files, kotlin coroutines
 <br />
 
 **Mid/Senior Mobile Engineer in System Technologies, Minsk**<br />
-*October 2015 - April 2018 (2 years and 6 months)* 
+*October 2015 - April 2018 (2 years and 6 months)*
 
 **Projects:**
 
@@ -202,7 +220,7 @@ in gradle files, kotlin coroutines
 **Education:**
 
 Belarusian state university of informatics and radioelectronics, 2008 -
-2013<br /> 
+2013<br />
 Diploma of Software Engineering.
 
 Belarusian state university of informatics and radioelectronics, 2015 -
