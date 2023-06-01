@@ -24,7 +24,7 @@ Phone: +49 1590 4863319
 
 *mobile ios:* iOS SDK, UI Kit
 
-*kotlin:* kotlin coroutines, kotlin dsl, ui kotlin libraries (anko and analogues), kotlin in gradle files
+*kotlin:* Kotlin Coroutines, Kotlin DSL, ui kotlin libraries (anko and analogues), Kotlin in gradle files
 
 *reactive approach:* Kotlin coroutines(Kotlin Flow, Channels), RxJava
 
