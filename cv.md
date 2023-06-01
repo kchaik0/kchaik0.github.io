@@ -16,23 +16,17 @@ Phone: +49 1590 4863319
 
 ### Skill overview:
 
-*programming languages:* kotlin, java, swift
+*programming languages:* kotlin, java, swift, groovy
 
-*mobile android:* Android SDK, Android support library, Google play
-service libraries (map, billing, drive, gallery, analytics), Android
-clean architecture components(view models, livedata, room orm),
-application architecture(MVVP, MVP, MVI, MVC), request frameworks(retrofit,
-okhttp, volley, async-http), chat api(e.g. Zopim Chat API), image
-libraries(Glide, Picasso), firebase(authorization, realtime database, firestore, storage,
-analytics, crashlytic), media player(for audio and video) with media
-controller, app bundling
+*SDKs:* JDK, Android SDK
+
+*mobile android:* Android multimodule application architecture, Android Compose, Androidx architecture components(view models, livedata, room orm), Androix application components(workers), Application components(Activities, Services, Content Providers, Broadcast receivers), Android support library, Google play service libraries (map, billing, drive, gallery, analytics), application architecture(MVVP, MVP, MVI, MVC), request frameworks(retrofit, okhttp, volley, async-http), chat api(e.g. Zopim Chat API), image libraries(Glide, Picasso), firebase(authorization, realtime database, firestore, storage, analytics, crashlytic), media player(for audio and video) with media controller, app bundling, release app cycle and process
 
 *mobile ios:* iOS SDK, UI Kit
 
-*kotlin:* kotlin dsl, ui kotlin libraries (anko and analogues), kotlin
-in gradle files, kotlin coroutines
+*kotlin:* kotlin coroutines, kotlin dsl, ui kotlin libraries (anko and analogues), kotlin in gradle files
 
-*reactive approach:* rx-java, rx-kotlin, rx-android, rx-swift
+*reactive approach:* Kotlin coroutines(Kotlin Flow, Channels), RxJava
 
 *client-server technologies:* REST, SOAP, Oauth
 
@@ -40,9 +34,9 @@ in gradle files, kotlin coroutines
 
 *dependency injection:* Dagger2, Koin(service locator)
 
-*version control:* GIT, SVN
+*version control:* Git(Github and Gitlab), SVN
 
-*continuous integration:* bitrise, jenkins
+*continuous integration:* Gitlab pipelines(yaml files), bitrise, jenkins
 
 ## Experience:
 
